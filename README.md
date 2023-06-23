@@ -1,7 +1,7 @@
 # java_calculator
 자바 계산기 구현 미션 Repository입니다.
 
-[미션 제출 후 코드 리뷰 결과](https://github.com/prgrms-be-devcourse/java-calculator/pull/113)
+📌 [미션 제출 후 코드 리뷰 결과](https://github.com/prgrms-be-devcourse/java-calculator/pull/113)
 
 ----
 
